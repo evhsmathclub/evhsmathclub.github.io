@@ -1,3 +1,15 @@
-.mdl-navigation__link:hover {
-  border-bottom: 4px solid #8bc34a;
+.top-navigation .mdl-navigation__link:hover {
+  border-bottom: 4px solid #2296f3;
+}
+
+.top-navigation .mdl-navigation__link {
+  display: inline-block;
+  height: 60px;
+  line-height: 68px;
+  background-color: transparent !important;
+  border-bottom: 4px solid transparent;
+}
+
+.top-navigation .mdl-navigation__link:hover {
+  border-bottom: 4px solid #2296f3;
 }
