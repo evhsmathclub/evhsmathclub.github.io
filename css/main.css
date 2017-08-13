@@ -13,3 +13,7 @@
 .top-navigation .mdl-navigation__link:hover {
   border-bottom: 4px solid #2296f3;
 }
+
+.center {
+  margin: 0 auto;
+}
