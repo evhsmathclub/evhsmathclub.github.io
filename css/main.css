@@ -23,5 +23,9 @@ main {
 }
 
 .resource {
-  background: #aacbff;
+  background: #3F51B5;
+}
+
+.mdl-card__title-text {
+  color: white;
 }
